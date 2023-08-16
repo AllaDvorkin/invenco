@@ -46,9 +46,7 @@ namespace promotion_engine
             bool is_night = false;
             if (curr_time.Hour > 20 || curr_time.Hour < 6)
                 is_night = true;
-            //----------
-            is_night = true;
-            //-----------
+            
             List<double?> product_discount = new List<double?>();
             foreach (var product in list)
             {
