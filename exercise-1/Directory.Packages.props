@@ -1,0 +1,15 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+    <TargetFramework>net5.0</TargetFramework>
+    <!--<TargetFramework>net6.0</TargetFramework>-->
+    <!--<TargetFramework>net7.0</TargetFramework>-->
+    <!--<TargetFramework>netstandard2.1</TargetFramework>-->
+    <!--<TargetFramework>netcoreapp3.1</TargetFramework>-->
+    <Nullable>enable</Nullable>
+    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+    <ImplicitUsings>disable</ImplicitUsings>
+  </PropertyGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

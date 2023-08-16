@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\external-api\external-api.csproj" />
+    <ProjectReference Include="..\promotion-engine\promotion-engine.csproj" />
+  </ItemGroup>
+
+</Project>

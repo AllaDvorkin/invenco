@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <PackageReference Include="System.Collections" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\external-api\external-api.csproj" />
+  </ItemGroup>
+</Project>
